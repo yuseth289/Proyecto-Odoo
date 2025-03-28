@@ -1,0 +1,4 @@
+[submodule "yuseth289/Proyecto-Odoo"]
+	path = yuseth289/Proyecto-Odoo
+	url = git@github.com:yuseth289/Proyecto-Odoo.git
+	branch = rama-one
